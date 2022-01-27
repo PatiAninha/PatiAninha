@@ -26,5 +26,11 @@
   <img align="center" alt="Pati-Next" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 </div>
   
+<div>
+   
+   ![Snake animation](https://github.com/patianinha/patianinha/blob/output/github-contribution-grid-snake.svg)
+   
+ </div>
+  
   
   
